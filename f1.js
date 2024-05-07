@@ -1,4 +1,4 @@
-const funcMain = ()=>{
-    alert("f1 from main")
-    return "main"
+const funcBranch2 = ()=>{
+    alert("f1 from Branch2")
+    return "Branch2"
 }

@@ -10,3 +10,8 @@ const func = ()=>{
     alert("func from Branch2")
     return "func from Branch2 conflict number 2"
 }
+
+const func2 = ()=>{
+    alert("func from Branch2")
+    return "func from Branch2 conflict number 2"
+}
